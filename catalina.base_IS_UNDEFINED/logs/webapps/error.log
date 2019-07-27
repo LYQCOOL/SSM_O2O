@@ -1,0 +1,3 @@
+2019-06-16 21:39:27:909[main]-5levelcom.swpu.o2o.dao.AreaDao.queryArea-==>  Preparing: SELECT area_id,area_name,priority,create_time,last_edit_time FROM tb_area ORDER BY priority DESC 
+2019-06-16 21:39:28:118[main]-5levelcom.swpu.o2o.dao.AreaDao.queryArea-==> Parameters: 
+2019-06-16 21:39:28:191[main]-5levelcom.swpu.o2o.dao.AreaDao.queryArea-<==      Total: 2
